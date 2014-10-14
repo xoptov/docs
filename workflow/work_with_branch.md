@@ -34,7 +34,7 @@
 ------
 Если в JIRA есть колонка STAGE, в нее задача должна перейти после проверки на сервере.
 
-![in-progress to stage](https://bytebucket.org/cleverweb/docs/raw/604d310ae7768106fed3cd3fe3e178546488f768/workflow/images/jira_2.png?token=6375f49c1565ee7b9b9859aff9fe67f316fce1bb)
+![in-progress to stage](https://bytebucket.org/cleverweb/docs/raw/c0c89e14118862756ed846bbca34cfa9cc399a11/workflow/images/jira_2.png?token=86be8a6fc479bcc6729aee5bb148fe959a9886b9)
 
 Смотри
 [https://docs.google.com/document/d/1RN_yUGjxbgEIqC0K2qzqP7MFGwj8brNvZQKAoMK4f9I/edit#heading=h.c2k2tw45h159](https://docs.google.com/document/d/1RN_yUGjxbgEIqC0K2qzqP7MFGwj8brNvZQKAoMK4f9I/edit#heading=h.c2k2tw45h159)
