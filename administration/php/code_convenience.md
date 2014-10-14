@@ -53,7 +53,9 @@ use Vendor\Package\Feature\ClassOne;
 
 class CamelCaseNaming
 {
+
     const UPPER_CASE_CONSTANT = 1;
+    
     const CONSTANTS_ABOVE_ALL = 2;
 
     public $publicProperty;
