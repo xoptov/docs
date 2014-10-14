@@ -47,41 +47,41 @@ D - включаем в зависимости только нужные сер�
 
 <?php
 
-namespace Vendor\Package\Feature[\Class]
+  namespace Vendor\Package\Feature[\Class]
 
-use Vendor\Package\Feature\ClassOne;
+  use Vendor\Package\Feature\ClassOne;
 
-class CamelCaseNaming
-{
+  class CamelCaseNaming
+  {
 
-    const UPPER_CASE_CONSTANT = 1;
+        const UPPER_CASE_CONSTANT = 1;
+        
+        const CONSTANTS_ABOVE_ALL = 2;
     
-    const CONSTANTS_ABOVE_ALL = 2;
-
-    public $publicProperty;
-
-    protected $thenProtectedProperty;
-
-    private $lastIsPrivateProperty;
-
-    public function __construct(ClassOne $classOne)
-    {
-        $this->publicProperty = $classOne;
-    }
-
-    public function firstGoesPublicMethod()
-    {
-        foreach($this->publicProperty as $key => $value) {
-            $value++;
+        public $publicProperty;
+    
+        protected $thenProtectedProperty;
+    
+        private $lastIsPrivateProperty;
+    
+        public function __construct(ClassOne $classOne)
+        {
+            $this->publicProperty = $classOne;
         }
-        
-        if (isset($spaceBeforeReturn)) {
-        
+    
+        public function firstGoesPublicMethod()
+        {
+            foreach($this->publicProperty as $key => $value) {
+                $value++;
+            }
+            
+            if (isset($spaceBeforeReturn)) {
+            
+            }
+    
+            return $spaceBeforeReturn;
         }
-
-        return $spaceBeforeReturn;
-    }
-}
+  }
 
 
 </code></pre>
