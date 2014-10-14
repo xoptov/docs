@@ -1,29 +1,37 @@
-# README #
+Документация компании Perfico для внутреннего использования
+===========================================================
+Администрирование
+-----------------
+1. [Установка и настройка **php5** под linux](administration/php/simple_config.md)
+1. [Оптимизация **php-fpm** под ресурсы сервера](administration/php/performance.md)
+1. [Стандартная настройка **xdebug** под linux](administration/php/xdebug/simple_config.md)
+1. [Мультисессионная отладка с помощью **xdebug**](administration/php/xdebug/multiple_session.md)
+1. [Установка и настрока **nodejs** под linux](nodejs/simple_config.md)
+1. [Установка и настрока **nginx** под linux](administration/nginx/simple_config.md)
+1. [Комиляция и настрока **xdebug** из исходников](administration/php/xdebug/compilation.md)
+1. [Настрока deployment через Capifony](administration/capifony/simple_config.md)
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Symfony 2
+---------
+[empty]
 
-### What is this repository for? ###
+Composer
+--------
+[empty]
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+NodeJS
+------
+1. [Установка и настрока **nodejs** под Linux](nodejs/simple_config.md)
 
-### How do I get set up? ###
+BackboneJS
+----------
+[empty]
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+MarionetteJS
+------------
+[empty]
 
-### Contribution guidelines ###
+Angular
+-------
+[empty]
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
