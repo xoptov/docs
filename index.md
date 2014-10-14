@@ -38,4 +38,4 @@ Angular
 Организационные правила
 -------
 1. [Организация рабочего времени](workflow/time.md)
-1. [Организация рабочего времени](workflow/work_with_branch.md)
+1. [Работа с ветками и задачами](workflow/work_with_branch.md)
