@@ -43,6 +43,8 @@ D - включаем в зависимости только нужные сер�
 Ниже пример правильного синтаксиса кода:
 
 <pre><code>
+
+
 <?php
 
 namespace Vendor\Package\Feature[\Class]
@@ -78,5 +80,6 @@ class CamelCaseNaming
         return $spaceBeforeReturn;
     }
 }
+
 
 </code></pre>
